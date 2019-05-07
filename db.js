@@ -1,5 +1,5 @@
 const sequelize = require('sequelize');
-
+123123
 const db = new sequelize({
     database: "myDB",
     username: "postgres",
